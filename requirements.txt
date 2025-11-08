@@ -4,7 +4,10 @@ matplotlib<3.8.0
 plotly
 fpdf2
 openpyxl 
-
+streamlit
+pandas
+openpyxl
 
 python-3.9
+
 
