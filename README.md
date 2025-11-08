@@ -1,5 +1,9 @@
 Key Improvements Made:
+Streamli App Link: <[(https://budgettrackerop-xwsx3h9dkmqwwbjwmfnabx.streamlit.app/)]>
 # 🎨 UI/UX Enhancements:
+
+<img width="1904" height="1062" alt="Screenshot 2025-11-08 095345" src="https://github.com/user-attachments/assets/fb916573-0d39-44e3-9a0f-9876f6829966" />
+
 - Modern gradient color scheme with purple/blue theme
 
 - Animated metric cards with hover effects
